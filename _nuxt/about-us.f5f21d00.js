@@ -1,0 +1,1 @@
+import{o as e,a as o,b as t}from"./entry.9f2862c3.js";const c={class:"card card-body my-10 text-center bg-base-200 rounded-lg"};function n(s,a){return e(),o("div",c,"Coming soon..")}const r={},_=t(r,[["render",n]]);export{_ as default};
