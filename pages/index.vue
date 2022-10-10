@@ -1,6 +1,6 @@
 <template lang="pug">
 .container.mx-auto
-    .hero.bg-base-200.rounded-lg.p-10.mt-2.m-4
+    .hero.bg-base-200.rounded-lg.p-10.m-4
         .hero-content.text-center.p-5
             .max-w-5xl.flex.flex-col.gap-5.items-center
                 h1.font-extrabold.text-transparent.text-5xl.bg-clip-text.bg-gradient-to-r.from-purple-400.to-pink-600.font-bold
