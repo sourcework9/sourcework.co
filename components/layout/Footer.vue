@@ -3,9 +3,9 @@
   .flex.items-center
     .grow
       NuxtLink.btn.btn-sm.btn-ghost(to="/how-it-works") How it works
-      NuxtLink.btn.btn-ghost(to="/about-us")  About us
-      NuxtLink.btn.btn-ghost(to="/contact-us") Contact Us
+      NuxtLink.btn.btn-sm.btn-ghost(to="/about-us")  About us
+      NuxtLink.btn.btn-sm.btn-ghost(to="/contact-us") Contact Us
     .p-5.text-sm © 2022 Sourcework. All rights reserved.
 
 
-</template>
+</template>.btn-sm
