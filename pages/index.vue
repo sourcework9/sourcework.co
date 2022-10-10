@@ -19,10 +19,10 @@
     .text-center.mt-10
       h1.font-extrabold.text-transparent.text-2xl.bg-clip-text.bg-gradient-to-r.from-purple-400.to-orange-600.font-bold Start building You're team in India
       .flex.flex-wrap.items-center.justify-center.gap-3.py-10
-        .badge.p-5 Software Engineer
-        .badge.p-5 UI/UX Designer
-        .badge.p-5 Engineering Manager
-        .badge.p-5 Product Manager
-        .badge.p-5 QA Engineer
-        .badge.p-5 More...
+        .badge.badge-outline.p-5 Software Engineer
+        .badge.badge-outline.p-5 UI/UX Designer
+        .badge.badge-outline.p-5 Engineering Manager
+        .badge.badge-outline.p-5 Product Manager
+        .badge.badge-outline.p-5 QA Engineer
+        .badge.badge-outline.p-5 More...
 </template>

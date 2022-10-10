@@ -1,10 +1,10 @@
 <template>
   <div>
-    <AppHeader />
+    <LayoutHeader />
     <div class="min-h-[85vh]">
       <slot />
 
     </div>
-    <Footer/>
+    <LayoutFooter/>
   </div>
 </template>
