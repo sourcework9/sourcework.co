@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
     target: 'static',
     router: {
-        base: 'https://github.com/sourcework9/sourcework.co.git'
+        base: 'https://sourcework9.github.io/sourcework.co/'
     },
 
     css: [
