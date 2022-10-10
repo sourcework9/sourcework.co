@@ -1,5 +1,5 @@
 <template lang="pug">
-.container.mx-auto.mt-5
+.container.mx-auto.mt-10
   .grid.grid-cols-1(class="md:grid-cols-3")
     .bg-gray-100.rounded-lg.p-10
         .text-3xl.mb-5.font-extrabold.text-transparent.bg-clip-text.bg-gradient-to-r.from-purple-400.to-pink-600.font-bold Simple and easy
@@ -19,7 +19,7 @@
         div At this point we are only server USA. More countries are coming soon...
         div
           |You need more. Absolutely we can take care of it.
-          NuxtLink.link.normal-case(to="/contactus") Contact us
+          NuxtLink.link.normal-case(to="/contact-us") Contact us
 
 
 </template>

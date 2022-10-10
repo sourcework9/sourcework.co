@@ -1,5 +1,5 @@
 <template lang="pug">
-.container.mx-auto.mt-5
+.container.mx-auto.mt-10
   .bg-gray-100.rounded-lg.p-10
     .flex.flex-col.justify-center.max-w-md.mx-auto
       .text-4xl.mb-5.font-extrabold.text-transparent.bg-clip-text.bg-gradient-to-r.from-purple-400.to-pink-600.font-bold.text-center Contact us

@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
     target: 'static',
     router: {
-        base: 'https://sourcework.co',
+        base: '/',
         extendRoutes(routes) {
             for (const key in routes) {
                 routes[key].caseSensitive = true
