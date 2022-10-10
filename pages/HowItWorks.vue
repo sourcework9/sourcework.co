@@ -11,9 +11,15 @@
           li.step Done
     .p-10.col-span-2
       .grid.gap-5
-        div No Need to register a company in India
-        div We collect paycheck and pay developer in india. (At this point we are only server USA)
-        div We process bonus and even send gift hampers
+        div No Need to register a company in India.
+        div We collect paycheck and pay developer in india.
+        div We process bonus and even send gift hampers, welcome packages.
+        div We take care of assets like laptops.
+        div We protect you're intellectual property physically and legally.
+        div At this point we are only server USA. More countries are coming soon...
+        div
+          |You need more. Absolutely we can take care of it.
+          NuxtLink.link.normal-case(to="/contactus") Contact us
 
 
 </template>
