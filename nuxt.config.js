@@ -9,12 +9,16 @@ export default defineNuxtConfig({
       }
     },
   },
+  modules: [
+    '@nuxt/content'
+  ],
 
   css: ["@/assets/css/tailwind.css"],
 
-  build: {
-    postcss: {
-      postcssOptions: require("./postcss.config.js"),
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
     },
   },
 
